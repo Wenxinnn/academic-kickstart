@@ -7,4 +7,5 @@ weight = 120  # Order that this section will appear.
 
 title = "Popular Topics"
 subtitle = ""
+tags = ["Influencer Marketing", "Digital Marketing", "Social Media Management", "Content Marketing", "Email Marketing"]
 +++
