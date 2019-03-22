@@ -18,27 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Digital Marketing Specialist"
+  company = "Boostinsider"
+  company_url = "https://www.boostinsider.com/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2017-10-01"
   date_end = ""
-  description = """
+  description = """Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. Manage client’s budget from $2,000 to $50,000. Identify influencers to reach clients’ target audiences. Review influencer creative content, track posts performance, and ensure content on schedule delivery
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * SEO
+  * SEM
+  * Content Marketing
+  * Influencer marketing
+  * Influencer Marketing
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Digital Marketing Intern"
+  company = "TOLOCAL, INC, a Facebook lead generation company."
+  company_url = "http://tolocal.com/"
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Contributing to the growth of the business by generating and converting Facebook leads to sales.
+  Responsibilities include:
+  
+  * Paid Display
+  * Email marketing
+  """
+
+[[experience]]
+  title = "Social Media Marketing Intern"
+  company = "GOPACKUP, INC, an online travel marketplace."
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Contributing to the growth of the business by generating and converting Facebook leads to sales."""
 
 +++
