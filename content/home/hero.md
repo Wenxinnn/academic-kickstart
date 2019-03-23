@@ -40,7 +40,7 @@ hero_media = ""
   icon = "calendar-check"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
+  url = ""
   label = "Online Chat"
 
 # Note. An optional note to show underneath the links.
