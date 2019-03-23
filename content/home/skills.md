@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "ad"
   icon_pack = "fas"
-  name = "Google Ads"
+  name = "Paid Search & Display"
   description = "90%"
   
 [[feature]]
@@ -27,9 +27,9 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "users"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Team Management"
+  description = "90%"
 
 +++
