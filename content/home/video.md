@@ -2,8 +2,8 @@
 widget = "blank"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
-
+weight = 140  # Order that this section will appear.
+title = "See me in real-life"
 
 
 [design]
