@@ -47,7 +47,7 @@ hero_media = ""
 
 +++
 
-**The Best Way to Know About Wenxin **
+**The Best Way to Know About Wenxin**
 
 Schedule **Now** 
 
