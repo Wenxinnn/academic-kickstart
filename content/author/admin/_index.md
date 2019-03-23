@@ -13,7 +13,7 @@ role = "Marketing Profession"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "San Jose State University", url = "http://www.sjsu.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Marketing professional with 2 years’ working experience in influencer marketing, social media management, SEO, SEM, content marketing, and event marketing. Self-starter with entrepreneurial spirit and people management skills."
@@ -23,14 +23,14 @@ email = "whenxin.ye@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Influencer Marketing",
   "Digital Marketing",
+  "Influencer Marketing",
   "Content and Email Marketing"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Zaigezaigu Volunteers", "Visitors"]
+user_groups = ["Zaigezaigu Volunteers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -38,15 +38,6 @@ user_groups = ["Zaigezaigu Volunteers", "Visitors"]
   institution = "San Jose State University"
   year = 2017
 
-[[education.courses]]
-  course = "Google Ads Search Certification"
-  institution = "Google Ads"
-  year = 2018
-
-[[education.courses]]
-  course = "Hootsuite Platform Certification"
-  institution = "Hootsuite"
-  year = 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
