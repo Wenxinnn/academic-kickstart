@@ -75,6 +75,6 @@ user_groups = ["Zaigezaigu Volunteers"]
 
 +++
 
-Marketing professional with 2 years’ working experience in leveraging both organic and paid channels to acquire users. Channels includes but not limited to social media, E-mail, Search engine, blogs, and events. Self-starter with entrepreneurial spirit and people management skills.
+Marketing professional with 2 years’ working experience in leveraging both organic and paid channels to acquire users. Channels includes but not limited to social media, E-mail, search engine (SEO, SEM), blogs, and events. Self-starter with entrepreneurial spirit and people management skills.
 
 Fluent in Chinese, Cantonese and Engligsh.
