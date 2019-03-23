@@ -10,4 +10,4 @@ title = "See me in real-life"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-{{< video library="1" src="Action.mp4" controls="yes" loop>}}
+{{< video library="1" src="Action.mp4" controls="yes" loop="on">}}
