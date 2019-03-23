@@ -44,8 +44,7 @@ hero_media = ""
   label = "Online Chat"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
+
 +++
 
 **The Best Way to Know About Wenxin **
