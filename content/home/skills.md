@@ -16,8 +16,8 @@ subtitle = ""
 
 [[feature]]
   icon = "Ad"
-  icon_pack = "fab"
-  name = "Google Ads"
+  icon_pack = "fas"
+  name = "Google Ad"
   description = "90%"
   
 [[feature]]
