@@ -44,10 +44,6 @@ user_groups = ["Zaigezaigu Volunteers"]
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-[[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:whenxin.ye@gmail.com".
 
 [[social]]
   icon = "linkedin"
@@ -63,6 +59,11 @@ user_groups = ["Zaigezaigu Volunteers"]
   icon = "cv"
   icon_pack = "ai"
   link = "files/cv.pdf"
+  
+  [[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "#contact"  # For a direct email link, use "mailto:whenxin.ye@gmail.com".
 
 
 # Link to a PDF of your resume/CV from the About widget.
