@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-Ad"
+  icon = "ad"
   icon_pack = "fas"
   name = "Google Ad"
   description = "90%"
