@@ -19,23 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Digital Marketing Specialist"
-  company = "Boostinsider"
+  company = "Boostinsider, an influencer marketing agency and software compnay."
   company_url = "https://www.boostinsider.com/"
   location = "California"
   date_start = "2017-10-01"
   date_end = ""
-  description = """Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. Manage client’s budget from $2,000 to $50,000. Identify influencers to reach clients’ target audiences. Review influencer creative content, track posts performance, and ensure content on schedule delivery
+  description = """Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. Manage a content team of 2.
   Responsibilities include:
   
   * SEO
   * SEM
   * Content Marketing
-  * Influencer marketing
+  * Influencer Marketing
+  * Event Marketing
   """
 
 [[experience]]
   title = "Digital Marketing Intern"
-  company = "TOLOCAL, INC, a Facebook lead generation company."
+  company = "ToLocal, INC, a Facebook lead generation company."
   company_url = "http://tolocal.com/"
   location = "California"
   date_start = "2017-09-01"
@@ -49,8 +50,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Social Media Marketing Intern"
-  company = "GOPACKUP, INC, an online travel marketplace."
-  company_url = ""
+  company = "GoPackup, INC, an online travel marketplace."
+  company_url = "https://gopackup.com/"
   location = "California"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
