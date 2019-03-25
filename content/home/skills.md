@@ -18,18 +18,15 @@ subtitle = ""
   icon = "ad"
   icon_pack = "fas"
   name = "Paid Search & Display"
-  description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Google Analytics"
-  description = "100%"  
   
 [[feature]]
   icon = "users"
   icon_pack = "fas"
   name = "Team Management"
-  description = "90%"
 
 +++
