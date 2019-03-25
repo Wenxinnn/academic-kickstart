@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Google Ads"
   organization_url = "https://landing.google.com/academyforads/#?modal_active=none"
-  title = "Google Ads Search Certification"
+  title = "Google Ads Foundamentals"
   url = ""
   certificate_url = "https://academy.exceedlms.com/student/award/28724976"
   date_start = "2019-03-02"
