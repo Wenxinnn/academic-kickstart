@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-10-01"
   date_end = ""
-  description = """Strategize both paid and organic channels with the goal of user acquisition. Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. 
-  Manage a content team of 2.
+  description = """Manage 40% of company client accounts. Plan and execute influencer marketing campaigns for global clients. Develop strategies for both paid and organic marketing channels with the goal of user acquisition. Lead a content team of 2. Served as the point of contact for PR and partnership companies. 
 
   
 * SEO
