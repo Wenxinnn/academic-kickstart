@@ -24,14 +24,15 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-10-01"
   date_end = ""
-  description = """Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. Manage a content team of 2.
-  Responsibilities include:
+  description = """Strategize both paid and organic channels with the goal of user acquisition. Partner with client marketing teams to develop campaign strategy and maximize campaign ROI. Plan and execute YouTube, Instagram, and Facebook influencer marketing campaigns for clients from beauty and fashion industry. 
+  Manage a content team of 2.
+
   
-  * SEO
-  * SEM
-  * Content Marketing
-  * Influencer Marketing
-  * Event Marketing
+* SEO
+* SEM
+* Content Marketing
+* Influencer Marketing
+* Event/ Field Marketing
   """
 
 [[experience]]
@@ -41,11 +42,10 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-09-01"
   date_end = "2017-10-01"
-  description = """Contributing to the growth of the business by generating and converting Facebook leads to sales.
-  Responsibilities include:
+  description = """Contributed to the growth of the business by generating and converting Facebook leads to sales.
   
-  * Paid Display
-  * Email marketing
+* Paid Display
+* Email marketing
   """
 
 [[experience]]
@@ -55,12 +55,12 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2017-05-01"
   date_end = "2017-08-01"
-  description = """ Collaborated with cross-functional teams. Optimizing social media campaigns by analyzing user behaviors using Google Analytics data. Conducting market research and identifying customer trends as well as using detailed information to craft designated tours and provide quotations. 
+  description = """ Collaborated with cross-functional teams. Initiated, planed, and executed creative social media campaigns. Analyzed user behaviors using Google Analytics data. Conducted market research and identifying customer trends. 
   
-  * Creative Marketing Campaigns 
-  * A/B testing
-  * SWOT analysis, Porter’s 5 Forces analysis 
-  * Optimizing functions of apps and websites for outside agents by collaborating with team to develop best practices.
+* A/B testing
+* Creative Marketing Campaigns 
+* SWOT analysis, Porter’s 5 Forces analysis 
+* Optimizing functions of apps and websites for outside agents by collaborating with team to develop best practices.
 
 
 """
