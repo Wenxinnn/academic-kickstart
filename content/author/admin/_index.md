@@ -23,9 +23,9 @@ email = "whenxin.ye@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
+  "Field Marketing",
   "Digital Marketing",
-  "Influencer Marketing",
-  "Content and Email Marketing"
+  "Influencer Marketing"
 ]
 
 # Organizational groups that you belong to (for People widget)
