@@ -34,7 +34,7 @@ user_groups = ["Zaigezaigu Volunteers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Bechelor's Degree, Marketing"
+  course = "Bachelor's Degree, Marketing"
   institution = "San Jose State University"
   year = 2017
 
