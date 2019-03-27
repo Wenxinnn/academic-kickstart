@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Marketing Profession"
+role = "Marketing Professional"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -34,7 +34,7 @@ user_groups = ["Zaigezaigu Volunteers"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "Bechelor's Degree, Marketing"
+  course = "Bachelor's Degree, Marketing"
   institution = "San Jose State University"
   year = 2017
 

@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "whenxin.ye@gmail.com"
 
-address = "San Francisco, California, 90210, USA"
+address = "San Francisco, California, 94132, USA"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com/wenxinye"
