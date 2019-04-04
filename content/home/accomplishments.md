@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Google Analytics"
+  organization_url = "https://academy.exceedlms.com/student/award/30063577?referer=https%3A%2F%2Facademy.exceedlms.com%2Fstudent%2Fpath%2F2938%2Factivity%2F4625"
+  title = "Google Analytics Individual Qualification"
+  url = ""
+  certificate_url = "https://academy.exceedlms.com/student/award/28724976"
+  date_start = "2019-03-02"
+  date_end = ""
+  description = ""
+  
+[[item]]
   organization = "Google Ads"
   organization_url = "https://landing.google.com/academyforads/#?modal_active=none"
   title = "Google Ads Foundamentals"
